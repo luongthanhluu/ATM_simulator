@@ -1,6 +1,6 @@
 # Install
 
-`yarn`
+### `yarn`
 
 ## Available Scripts
 
