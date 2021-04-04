@@ -1,15 +1,6 @@
 # Install
 
-## If use yarn
-
 `yarn`
-
-## If use npm
-
-`cd backend`
-`npm install`
-`cd frontend`
-`npm install`
 
 ## Available Scripts
 
